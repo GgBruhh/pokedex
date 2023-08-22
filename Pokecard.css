@@ -1,0 +1,17 @@
+.card{
+    background-color: lightgray;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+b{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+    color: lightgray;
+}
